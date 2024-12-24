@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1723753068 source:h:\embeded_m.abdelbaset\project soduko\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
